@@ -107,7 +107,7 @@ Make sure you have these tools installed:
 - `git`
 - `rclone`
 
-These can be installed by following their respective installation guide on their websites.
+These can be installed by following their respective installation guide on their websites..
 
 - [git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [rclone installation guide](https://rclone.org/install/)
